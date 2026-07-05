@@ -3,7 +3,6 @@
     "1536552360":  { "level": 999, "note": "kaiba" },
     "10623255612": { "level": 999, "note": "ipofu" },
     "753096985":   { "level": 999, "note": "flaming" },
-    "2784266026":  { "level": 999, "note": "tco" },
     "1426689964":  { "level": 999, "note": "unknown (CM)" },
     "2821100155":  { "level": 999, "note": "Cami_exiled (dev)" },
     "9483040166":  { "level": 999, "note": "Greenie" },
@@ -13,35 +12,10 @@
     "105733982":   { "level": 999, "note": "Socie" },
 
 
-    "3350405522":  { "level": 10, "note": "marcus (dev)" },
-    "24462100":    { "level": 10, "note": "FabricRealities (CM)" },
-    "96222053":    { "level": 10, "note": "Zchur (CM)" },
-    "633818813":   { "level": 10, "note": "hihello pro" },
-    
-    "711632956":   { "level": 5, "note": "HaxMang0" },
 
-    "1964889":     { "level": 5, "note": "KGM / choi" },
-    "208553081":   { "level": 5, "note": "feeblebeebop" },
-    "6047271":     { "level": 5, "note": "mortgage (mod)" },
-    "2339177943":  { "level": 5, "note": "north (Admin)" },
-    "601510209":   { "level": 5, "note": "Lunaticlypse (trello manager)" },
-
-    "560425794":   { "level": 4, "note": "Maric (Admin)" },
-    "16523931" :   { "level": 4, "note": "Joestar (Admin)" },
-    "294734506":   { "level": 4, "note": "Grand (admin)" },
-
-    "713443264":   { "level": 4, "note": "spook3z (Sr mod)" },
-    
-    "556647394":   { "level": 3, "note": "0baj" },
-
-    "760930296":   { "level": 2, "note": "1x_h (trello)" },
-    "71668391":    { "level": 2, "note": "patrilogo2 (trello)" },
-    "1385852392":  { "level": 2, "note": "TheGuyOfNoOne (trello)" },
-    "106240953":   { "level": 2, "note": "gokugod95 (trello)" },
-    "951025218":   { "level": 2, "note": "(trello)" }
   },
   "brownie": {
-    "userID": 3038733586,
+    "userID": 8817659721,
     "rolls": [
       { "chance": 70, "level": 1 },
       { "chance": 20, "level": 2 },
