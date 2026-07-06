@@ -8,32 +8,28 @@
     "4940357204":  { "level": 999, "note": "meno / fafa" },
     "1534146802":  { "level": 999, "note": "EYYYYYYYY... aura moments" },
     "142963982":   { "level": 999, "note": "Mister Steven Abdullah (Dev)" },
-    "1095681697":   { "level": 999, "note": "Jariv" },
+    "1095681697":  { "level": 999, "note": "Jariv" },
 
-    "208553081":   { "level": 10, "note": "feeblebeebop (dev)" },
-    "83707931":   { "level": 10, "note": "Art.exe / arty (dev)" },
-    "1163981623":   { "level": 10, "note": "Cevi (dev)" },
+    "208553081":   { "level": 10,  "note": "feeblebeebop (dev)" },
+    "83707931":    { "level": 10,  "note": "Art.exe / arty (dev)" },
+    "1163981623":  { "level": 10,  "note": "Cevi (dev)" },
 
-    
-   "1416074156":   { "level": 5, "note": "Juan (Admin Head)" },
-   "1026874570":   { "level": 5, "note": "Award (Admin Head)" },
-    "24462100":   { "level": 5, "note": "Fabric (Sr admin or smth)" },
-    "560425794":   { "level": 5, "note": "Maric (Sr admin or smth)" },
+    "1416074156":  { "level": 5,   "note": "Juan (Admin Head)" },
+    "1026874570":  { "level": 5,   "note": "Award (Admin Head)" },
+    "24462100":    { "level": 5,   "note": "Fabric (Sr admin or smth)" },
+    "560425794":   { "level": 5,   "note": "Maric (Sr admin or smth)" },
 
-    
-    "1964889":   { "level": 4, "note": "Choi (admin)" },
-    "556647394":   { "level": 4, "note": "unkwph (admin)" },
+    "1964889":     { "level": 4,   "note": "Choi (admin)" },
+    "556647394":   { "level": 4,   "note": "unkwph (admin)" },
 
-    
-    "16523931":   { "level": 3, "note": "Joestar (Sr Mod)" },
-    "544207325":   { "level": 3, "note": "Ultimate insane (Mod)" },
+    "16523931":    { "level": 3,   "note": "Joestar (Sr Mod)" },
+    "544207325":   { "level": 3,   "note": "Ultimate insane (Mod)" },
+    "2269104836":  { "level": 3,   "note": "Xhen (Mod)" },
 
-     "80755534":   { "level": 2, "note": "Eyvening (trello)" },
-    "3847975987":  { "level": 2, "note": "damnsavo (trello)" },
-    "906313663":   { "level": 2, "note": "mlofgren15 (trello)" },
-    "3054203396":  { "level": 2, "note": "Full_Master2289 (trello)" }
-
-
+    "80755534":    { "level": 2,   "note": "Eyvening (trello)" },
+    "3847975987":  { "level": 2,   "note": "damnsavo (trello)" },
+    "906313663":   { "level": 2,   "note": "mlofgren15 (trello)" },
+    "3054203396":  { "level": 2,   "note": "Full_Master2289 (trello)" }
   },
   "brownie": {
     "userID": 8817659721,
