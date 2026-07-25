@@ -6,5 +6,9 @@
   "Legendary": { "ProductId": 3608767476, "Coins": 50000,  "Gems": 50,  "Order": 5 },
   "Godly":     { "ProductId": 3608767626, "Coins": 75000,  "Gems": 75,  "Order": 6 },
   "Bizarre":   { "ProductId": 3608767659, "Coins": 100000, "Gems": 100, "Order": 7 },
-  "kayne":     { "ProductId": 3604472223, "Coins": 100132123000, "Gems": 10111110, "Order": 8 }
-}
+
+  
+  "Zamazu" : { "ProductId": 3611544972, "Coins": 100000, "Gems": 80, "Order": 8 },
+  "Merged Zamsu" : { "ProductId": 3608767659, "Coins": 100000, "Gems": 225, "Order": 9 },
+  "Gogeta" : { "ProductId": 3611544695, "Coins": 100000, "Gems": 250, "Order": 10 }
+  }
