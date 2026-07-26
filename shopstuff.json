@@ -12,6 +12,6 @@
   "Merged Zamsu" : { "ProductId": 3611544695, "Coins": 100000, "Gems": 225, "Order": 9 },
   "Gogeta" : { "ProductId": 3611544931, "Coins": 100000, "Gems": 250, "Order": 10 },
   "GSS4" : { "ProductId": 3611553472, "Coins": 100000, "Gems": 250, "Order": 11 },
-  "CC" :  { "ProductId": 3611696604, "Coins": 100000, "Gems": 200, "Order": 12 }
+  "CC" :  { "ProductId": 3611696604, "Coins": 100000, "Gems": 200, "Order": 12 },
   "PCC" :  { "ProductId": 3611696631, "Coins": 100000, "Gems": 1000, "Order": 13 }
   }
