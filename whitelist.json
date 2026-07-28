@@ -14,22 +14,24 @@
     "547251956":   { "level": 999, "note": "Fixaye" },
     "8982440415":  { "level": 999, "note": "munchplop / d" },
     "364609752":  { "level": 999, "note": "juno" },
+    "409220592":    { "level": 999,   "note": "Disturbs (Dev)" },
     
     "1964889":     { "level": 999,   "note": "Choi (admin) temp 10 og 5" },
-    "96222053":     { "level": 10,   "note": "Zchur (admin) temp 10 og 5" },
 
     
     "1163981623":  { "level": 10,  "note": "Cevi (dev)" },
-    "409220592":    { "level": 999,   "note": "Disturbs (Dev)" },
 
     "1416074156":  { "level": 5,   "note": "Juan (Admin Head)" },
-"423927013": { "level": 5,   "note": "kaithingy" },
+    "423927013": { "level": 5,   "note": "kaithingy / iamverycools" },
     "1026874570":  { "level": 5,   "note": "Award (Admin Head)" },
     "24462100":    { "level": 5,   "note": "Fabric (Sr admin or smth)" },
     "560425794":   { "level": 5,   "note": "Maric (Sr admin or smth)" },
-
+    "96222053":     { "level": 5,   "note": "Zchur (admin)" },
     "556647394":   { "level": 4,   "note": "unkwph (admin)" },
     "2366355550":  { "level": 4,   "note": "Snoobert (admin)" },
+    "2339177943":  { "level": 4, "note": "alostsenseofself (admin)" },
+    "556647394":  { "level": 4, "note": "iohia (admin)" }, 
+
 
     
     "16523931":    { "level": 3,   "note": "Joestar (Sr Mod)" },
@@ -37,6 +39,9 @@
     "2269104836":  { "level": 3,   "note": "Xhen (Mod)" },
     "713443264":   { "level": 3,   "note": "Spook (Mod)" },
     "7968818886":  { "level": 3, "note": "Belladonna/Bella" },
+    "643371441":  { "level": 3, "note": "Eeveeon" },
+    "141437022":  { "level": 3, "note": "armaandokodo / iamverydumb" }, 
+    "16523931":  { "level": 3, "note": "joestar" },
 
     "11076247974":  { "level": 5, "note": "Echo staff" },
     "42087622":     { "level": 5, "note": "Echo norm" },
