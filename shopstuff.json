@@ -16,4 +16,8 @@
   "PCC" :  { "ProductId": 3611696631, "Coins": 100000, "Gems": 1000, "Order": 13 },
   "Rory" :  { "ProductId": 3612749874, "Coins": 100000, "Gems": 500, "Order": 14 },
   "Tenna" : { "ProductId": 3612749895, "Coins": 100000, "Gems": 500, "Order": 15 }
+  "Sans" : { "ProductId": 3612897912, "Coins": 100000, "Gems": 500, "Order": 16 },
+  "Crucible" : { "ProductId": 3612898025, "Coins": 100000, "Gems": 500, "Order": 17 },
+  "John Bomb" : { "ProductId": 3612898076, "Coins": 100000, "Gems": 500, "Order": 18 },
+  "Boombox" : { "ProductId": 3612898209, "Coins": 100000, "Gems": 500, "Order": 19 },
   }
