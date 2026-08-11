@@ -8,16 +8,6 @@
   "Bizarre":   { "ProductId": 3608767659, "Coins": 100000, "Gems": 100, "Order": 7 },
 
   
-  "Zamazu" : { "ProductId": 3611544972, "Coins": 100000, "Gems": 80, "Order": 8 },
-  "Merged Zamsu" : { "ProductId": 3611544695, "Coins": 100000, "Gems": 225, "Order": 9 },
-  "Gogeta" : { "ProductId": 3611544931, "Coins": 100000, "Gems": 250, "Order": 10 },
-  "GSS4" : { "ProductId": 3611553472, "Coins": 100000, "Gems": 250, "Order": 11 },
-  "CC" :  { "ProductId": 3611696604, "Coins": 100000, "Gems": 200, "Order": 12 },
-  "PCC" :  { "ProductId": 3611696631, "Coins": 100000, "Gems": 1000, "Order": 13 },
-  "Rory" :  { "ProductId": 3612749874, "Coins": 100000, "Gems": 500, "Order": 14 },
-  "Tenna" : { "ProductId": 3612749895, "Coins": 100000, "Gems": 500, "Order": 15 },
-  "Sans" : { "ProductId": 3612897912, "Coins": 100000, "Gems": 500, "Order": 16 },
-  "Crucible" : { "ProductId": 3612898025, "Coins": 100000, "Gems": 500, "Order": 17 },
-  "John Bomb" : { "ProductId": 3612898076, "Coins": 100000, "Gems": 500, "Order": 18 },
-  "Boombox" : { "ProductId": 3612898209, "Coins": 100000, "Gems": 500, "Order": 19 }
+    "1robux" : { "ProductId": 3702414046, "Coins": 100000, "Gems": 12312312312312, "Order": 8 }
+
   }
